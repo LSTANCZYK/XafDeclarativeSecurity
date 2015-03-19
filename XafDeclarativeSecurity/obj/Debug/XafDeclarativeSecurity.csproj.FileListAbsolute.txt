@@ -1,0 +1,16 @@
+D:\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\bin\Debug\XafDeclarativeSecurity.dll
+D:\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\bin\Debug\XafDeclarativeSecurity.pdb
+D:\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\XafDeclarativeSecurity.csprojResolveAssemblyReference.cache
+D:\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\XafDeclarativeSecurity.XafDeclarativeSecurityModule.resources
+D:\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\XafDeclarativeSecurity.csproj.GenerateResource.Cache
+D:\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\XafDeclarativeSecurity.dll
+D:\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\XafDeclarativeSecurity.pdb
+D:\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\XafDeclarativeSecurity.dll.licenses
+C:\Users\Боборыкин\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\bin\Debug\XafDeclarativeSecurity.dll
+C:\Users\Боборыкин\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\bin\Debug\XafDeclarativeSecurity.pdb
+C:\Users\Боборыкин\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Боборыкин\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\XafDeclarativeSecurity.XafDeclarativeSecurityModule.resources
+C:\Users\Боборыкин\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Боборыкин\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Боборыкин\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\XafDeclarativeSecurity.dll
+C:\Users\Боборыкин\YandexDisk\VS\XafDeclarativeSecurity\XafDeclarativeSecurity\obj\Debug\XafDeclarativeSecurity.pdb
